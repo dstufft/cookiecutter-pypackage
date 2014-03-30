@@ -1,0 +1,11 @@
+{
+    "full_name": "Donald Stufft",
+    "email": "donald@stufft.io",
+    "github_username": "dstufft",
+    "project_name": "Python Boilerplate",
+    "repo_name": "boilerplate",
+    "irc_channel": "#caremad",
+    "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+    "year": "2014",
+    "version": "0.1.0"
+}
