@@ -1,5 +1,5 @@
 # Install our development requirements
 tox
 
-# Install {{ cookiecutter.rep_name }} itself
+# Install {{ cookiecutter.repo_name }} itself
 -e .
